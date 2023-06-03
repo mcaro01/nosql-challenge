@@ -87,7 +87,7 @@ How many establishments in each Local Authority area have a hygiene score of 0?
 
   There are 55 rows in the DataFrame. 
   
-  This is the preview of the first 10 rows:
+  This is the preview of the first 5 rows:
       
    ![image](https://github.com/mcaro01/nosql-challenge/assets/125619215/a0994d4c-ce3c-4746-ab81-8b81a169f822)
 
