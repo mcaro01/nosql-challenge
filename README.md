@@ -88,7 +88,12 @@ How many establishments in each Local Authority area have a hygiene score of 0?
   There are 55 rows in the DataFrame. 
   
   This is the preview of the first 10 rows:
-  
-  
-     ![image](https://github.com/mcaro01/nosql-challenge/assets/125619215/0d5b8d37-9ac7-436e-a220-0a4c3a3826d0)
+      
+   ![image](https://github.com/mcaro01/nosql-challenge/assets/125619215/a0994d4c-ce3c-4746-ab81-8b81a169f822)
+
  
+ 
+## Please Note:
+## In order to display the correct data I have to run the dataset "mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json" in the terminal every time I run the first part (NoSQL_setup_starter) of this challenge 
+      How many documents contain the Dover Local Authority?
+        Number of localAuthorityName by Dover:  994
